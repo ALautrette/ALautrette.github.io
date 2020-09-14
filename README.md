@@ -13,3 +13,7 @@
 - **GitHub** : Forge logicielle en ligne utilisant Git
 
 ##### 2. Pour l'épreuve E6
+- Je présente mes bonnes pratiques : 
+  - Respect des normes et des standards
+  - Auto-formation
+- Je présente de façon dont j'organise ma veille et la façon dont je m'en sert
